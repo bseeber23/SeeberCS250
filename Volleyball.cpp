@@ -7,7 +7,7 @@ VolleyBall::VolleyBall() : Athlete()
 {
     m_position = "";
     m_reactionTime = 0.0;
-}
+} // sets initial values
 
 
 VolleyBall::VolleyBall(string position, float reactionTime)
