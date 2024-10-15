@@ -1,10 +1,12 @@
+//Braden Seeber - 10/15/24
+//Main file for tennis
 #include "Tennis.h"
 
 Tennis::Tennis() : Athlete()
 {
     m_serveSpeed = 0;
     m_serveAndVolley = false;
-}
+} //sets initial values
 
 
 Tennis::Tennis(int serveSpeed, bool serveAndVolley)
