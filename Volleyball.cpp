@@ -1,9 +1,12 @@
+//Braden Seeber - 10/15/24
+//Main file for Volleyball
+
 #include "VolleyBall.h"
 
 VolleyBall::VolleyBall() : Athlete()
 {
     m_position = "";
-    m_reactionTime = 0.0f;
+    m_reactionTime = 0.0;
 }
 
 
