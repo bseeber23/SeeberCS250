@@ -1,13 +1,15 @@
+//Header file for athlete
+
 #include "Athlete.h"
 
 Athlete::Athlete() {
     m_height ;
     m_weight ;
-    m_gender ;  // 'U' for unspecified
+    m_gender ;  
 }
 
 
-Athlete::Athlete(int height, int weight, char gender)
+Athlete::Athlete(int height, int weight, char gender) 
 {
     m_height = height;
     m_weight = weight;
