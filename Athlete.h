@@ -1,3 +1,6 @@
+//Braden Seeber - 10/15/24
+//Header file for athlete
+
 #ifndef ATHLETE_H
 #define ATHLETE_H
 
