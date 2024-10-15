@@ -1,4 +1,4 @@
-//Header file for athlete
+//Main file for athlete
 
 #include "Athlete.h"
 
